@@ -1,0 +1,8 @@
+//threeVariableInputs
+INPUT: a,x,b
+
+IF x == '+' THEN 
+   PRINT a + b
+ELSE IF x == '-' THEN 
+   PRINT a - b
+ELSE PRINT "invalid"
