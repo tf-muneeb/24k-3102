@@ -1,0 +1,7 @@
+Ask the user to input two numbers (a and b) and an operator (c)
+IF c is '+', print a + b
+IF c is '-', print a - b
+IF c is '*', print a * b
+IF c is '/', print a / b
+IF c is '%', print a % b
+IF c is none of the above, print "Invalid Operator"
