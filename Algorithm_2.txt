@@ -1,0 +1,5 @@
+Ask the user to enter number,n 
+IF 2 is divisor of n 
+THEN Set n to EVEN
+ELSE Set n to ODD
+Display n for the user
