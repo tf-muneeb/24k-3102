@@ -1,0 +1,11 @@
+//ThreeNumbers
+INPUT: a,b,c 
+
+IF a>=b AND a>=c THEN 
+   max = a
+IF b>=a AND b>=c THEN 
+   max = b
+ELSE 
+   max = c
+
+OUTPUT: max
