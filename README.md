@@ -1,5 +1,5 @@
-# Introduction
-**I am Muneeb Mustafa**
+# Myself
+**I am Muhammad Muneeb Mustafa**
 
 I have done O and A levels.
 
