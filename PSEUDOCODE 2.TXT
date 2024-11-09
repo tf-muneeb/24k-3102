@@ -1,8 +1,0 @@
-//threeNumbers
-INPUT: a,b,c
-
-SET sum to 0
-
-SET sum to a-(-b)-(-c)
-
-OUTPUT: sum
