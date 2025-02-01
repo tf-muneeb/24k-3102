@@ -25,7 +25,7 @@ int main()
 	printf("      *******************************************************************\n");
 	printf("     *                                                                   *\n");
 	printf("     *                                                                   *\n");
-	printf("     *                   Welcome  TO  Muneeb's Hotel                     *\n");
+	printf("     *             Welcome  TO  MUNEEB AND CO. Hotel                   *\n");
 	printf("     *                                                                   *\n");
 	printf("     *                                                                   *\n");
 	printf("      *******************************************************************\n");
@@ -50,7 +50,7 @@ int main()
 	
 	switch(a)
 	{
-		case 1:                                                       /* (Case 1 start from here)/         /*111111111111111111111/
+		case 1:                                                 
 		system("cls");
 		printf("\n\n\n\n");		
 		printf("       -------------------------------------------------------------\n");
@@ -89,7 +89,7 @@ int main()
 		}
 		break;
 		
-		case 2:                                                            /* (Case 2 start from here)/        /*222222222222222222/
+		case 2:                                                           
 		cd: 
 		system("cls");
 		printf("\n\n\n\n");	
@@ -173,7 +173,7 @@ int main()
 		}
 		break;
 	
-		case 3:                                                           /* (Case 3 start from here)*/             /*3333333333333333333 */
+		case 3:                                                         
 		ab:
 		system("cls");
 		printf("\n\n\n\n");
@@ -257,7 +257,7 @@ int main()
 		}
 		break;
 		
-		case 4:                                                              /* (Case 4 start from here)/          /*44444444444444444444/
+		case 4:                                                        
 	
 		system("cls");
 		printf("\n\n\n\n");	
@@ -286,7 +286,6 @@ int main()
 		break;
 		
 		case 5:  
-		                                                              /* (Case 5 start from here)/            /*55555555555555555555/
 		as:
 		system("cls");
 		printf("\n\n\n\n");	
@@ -351,7 +350,7 @@ int main()
 		}
 		break;
 		
-		case 6:                                                                   /* (Case 6 start from here)/             /*666666666666666666/
+		case 6:                                                                 
 		
 		system("cls");
 		printf("\n\n\n\n");	
@@ -379,7 +378,7 @@ int main()
 		}
 		break;
 		
-		case 7:                                                                   /* (Case 7 start from here)/       /*77777777777777777777/
+		case 7:                                                                   
 		
 		system("cls");
 		printf("\n\n\n\n");	
@@ -414,7 +413,7 @@ int main()
 		}
 		break;
 		
-		case 8:                                                                    /* (Case 8 start from here)/         /*88888888888888888888/
+		case 8:                                                                   
 			
 		return 0;
 		break;
