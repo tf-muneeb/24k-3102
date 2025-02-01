@@ -25,7 +25,7 @@ int main()
 	printf("      *******************************************************************\n");
 	printf("     *                                                                   *\n");
 	printf("     *                                                                   *\n");
-	printf("     *             Welcome  TO  Muneeb's Hotel                   *\n");
+	printf("     *                   Welcome  TO  Muneeb's Hotel                     *\n");
 	printf("     *                                                                   *\n");
 	printf("     *                                                                   *\n");
 	printf("      *******************************************************************\n");
